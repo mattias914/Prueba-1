@@ -3,20 +3,15 @@
   color: black;
   margin: 0px 0px 0px 0px;
   text-align: center;
-}
-img{
-
-}
-
-h1{
-
+  }
+h1
+{
   font-family: cursive;
   color: white;
   text-align: center;
 }
 body{
   margin: 0px 0px 0px 0px;
-
 }
 .fondo{
   background-image: url("../img/noot.jpg");
@@ -49,8 +44,13 @@ a{
   width: auto;
   height: 50vh;
 }
+.cuda1{
+  width: auto;
+  height: 30vh;
+}
 .backfot
 {
+  padding: 20px;
   background-color: #e6e6e6;
 }
 .margin0{
